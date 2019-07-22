@@ -1,0 +1,26 @@
+.component {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  span {
+    color: white;
+    font-size: 24px;
+  }
+}
+
+.red {
+  background: red;
+}
+
+.gray {
+  background: gray;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
